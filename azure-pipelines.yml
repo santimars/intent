@@ -8,7 +8,7 @@ trigger:
 #test-area-2
 
 steps:
-- script: echo Hello, world!
+- script: echo Hello, world! Hi my name is santimars nice to meet you!!!
   displayName: 'Run a one-line script'
 
 - script: |
