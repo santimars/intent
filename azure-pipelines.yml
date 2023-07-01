@@ -5,9 +5,7 @@
 #ilearning to use azure devops
 trigger:
 - main 
-
-#pool:
- # vmImage: ubuntu-latest
+#test-area-2
 
 steps:
 - script: echo Hello, world!
