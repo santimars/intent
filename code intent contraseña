@@ -1,10 +1,9 @@
-from ast import While
 
 
 contraseña= input("Cree su contraseña_ ")
 
-f=input (str("digita tu contraseña_ "))
-s=0
+f = input (str("digita tu contraseña_ "))
+s = 0
 
 if f!= contraseña or s<=int(4):
      print("Contraseña incorrecta")
